@@ -8,6 +8,11 @@ CREATE TABLE BlogProps(id_blog int NOT NULL PRIMARY KEY AUTO_INCREMENT, titulo T
 --abrir el ejecutador Xampp - control y presionar start MYSQL
 --presionar en ambos al boton admin
 --en el caso de MYSQL crea la base de datos y la tabla que estan al inicio de readme
+--cambiar la conexion en el archivo conexion.php por los tuyos en caso de cambie algun nombre
+--$hostname = 'localhost';
+--$database = 'blog_database';
+--$username = 'root';
+--$password = '';
 -------------------------------------------------------------------------------------------
 --ANDROID STUDIO
 --en android studio solo hay que cambiar el archivo GlobalConfig.kt

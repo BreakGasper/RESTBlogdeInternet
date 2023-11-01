@@ -15,5 +15,10 @@ CREATE TABLE BlogProps(id_blog int NOT NULL PRIMARY KEY AUTO_INCREMENT, titulo T
 -- a Simbolo Sistema y teclear ipconfig y cambiar unicamente la ip de este ejemplo por la tuya
 -- var ws_url = "https://monsheep.000webhostapp.com/wsBlog/"  --Son los servicios que yo monte
 -- en 000webhostapp utilizando un dominio asi esta actualmente configurado el apk
-
+------------------------------------------------------------------------------------------------
+-- Te dejo los repositorios Git si deseas bajarlos de ahi
+--para el proyecto android:
+-- https://github.com/BreakGasper/Blog_de_Internet.git
+--para los webservices
+-- https://github.com/BreakGasper/RESTBlogdeInternet.git
 
